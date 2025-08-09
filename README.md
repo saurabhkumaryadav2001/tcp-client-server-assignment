@@ -15,9 +15,6 @@ It was built as part of a socket programming assignment.
 
 ---
 
-## 🗂 Project Structure
-tcp-assignment/
-├── Server.java # Handles client connections and sends responses
-├── Client.java # Sends requests and receives responses
-├── CryptoUtils.java # AES encryption/decryption utility
-└── README.md # Project documentation
+
+
+
